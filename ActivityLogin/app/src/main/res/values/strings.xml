@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActivityLogin</string>
+    <string name="login_here">Login Here</string>
+    <string name="user">user</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="newtreatweblink">newTreatWebLink</string>
+    <string name="services">Services</string>
+    <string name="todo">TODO</string>
+</resources>

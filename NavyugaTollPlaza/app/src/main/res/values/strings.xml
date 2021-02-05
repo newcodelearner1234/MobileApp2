@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Navyuga Toll Plaza</string>
+    <string name="total_vehicles">Total Vehicles</string>
+    <string name="fee_collected">Fee Collected</string>
+    <string name="_0">0</string>
+    <string name="_2_wheeler">2 Wheeler</string>
+    <string name="_4_wheeler">4 Wheeler</string>
+    <string name="truck_bus">Truck / Bus</string>
+    <string name="vip_pass">VIP / Pass</string>
+    <string name="rfid">rfid</string>
+    <string name="toll_fee_collection">Toll Fee Collection</string>
+
+</resources>
